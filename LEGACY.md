@@ -43,6 +43,7 @@ Current version: **1.1.2**
 
 ### Additions
 - Chef BF given a Monotone variant.
+- Added support for custom Monotone pets. (GitHub contribution)
 
 ### Bugfixes
 - Fixed a game breaking issue when opening the Credits during a modded song.
@@ -55,6 +56,7 @@ Current version: **1.1.2**
 - Polus BF's jacket clipping fixed.
 - Esculent's duped icon is removed.
 - Fixed Maroon's stage BF position.
+- A couple charts were fixed. (GitHub contribution)
 
 ### Changes
 - Some more characters have been turned into atlases.

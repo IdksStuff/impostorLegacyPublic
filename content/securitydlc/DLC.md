@@ -36,6 +36,7 @@ Current version: **1.1.2**
 - Triple Threat stage made windy.
 - Weird BF given a windy variant.
 - Weird BF stabbed and scared animations fixed.
+- A couple charts were fixed. (GitHub contribution)
 
 ## 1.1.2 (july 23 2026)
 
